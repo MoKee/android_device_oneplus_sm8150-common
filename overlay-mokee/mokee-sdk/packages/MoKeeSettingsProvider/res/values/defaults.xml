@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources>
-    <!-- Default for LineageSettings.Secure.VOLUME_PANEL_ON_LEFT -->
+    <!-- Default for MoKeeSettings.Secure.VOLUME_PANEL_ON_LEFT -->
     <bool name="def_volume_panel_on_left">true</bool>
 </resources>
